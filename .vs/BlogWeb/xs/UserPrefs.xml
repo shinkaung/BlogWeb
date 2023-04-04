@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{7F1D3701-3F9D-489D-B90B-B50562E618CE}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlogWeb/Program.cs">
+    <Files>
+      <File FileName="BlogWeb/Views/Home/Index.cshtml" Line="319" Column="7" />
+      <File FileName="BlogWeb/wwwroot/css/site.css" Line="9" Column="25" />
+      <File FileName="BlogWeb/Views/Home/Privacy.cshtml" />
+      <File FileName="BlogWeb/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="BlogWeb/Views/_ViewStart.cshtml" />
+      <File FileName="BlogWeb/appsettings.json" />
+      <File FileName="BlogWeb/Program.cs" Line="27" Column="1" />
+      <File FileName="BlogWeb/appsettings.Development.json" />
+      <File FileName="BlogWeb/Controllers/HomeController.cs" />
+      <File FileName="BlogWeb/Models/ErrorViewModel.cs" />
+      <File FileName="BlogWeb/wwwroot/js/site.js" />
+      <File FileName="BlogWeb/Views/Shared/_Layout.cshtml.css" Line="1" Column="1" />
+      <File FileName="BlogWeb/Views/Shared/_Layout.cshtml" Line="37" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlogWeb" expanded="True">
+            <Node name="BlogWeb" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                  <Node name="jquery" expanded="True" />
+                  <Node name="jquery-validation" expanded="True" />
+                  <Node name="jquery-validation-unobtrusive" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlogWeb PreferredExecutionTarget="/Applications/Brave Browser.app" />
+</Properties>
